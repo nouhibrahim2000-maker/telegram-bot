@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import random
 import os
 
-TOKEN = "حط_التوكن_بتاعك_هنا"
+TOKEN = "9147022896:AAF6ADi1drIXe2JiJrcYuwOTV2YmorZPtME"
 IMAGES_FOLDER = "images"
 
 if not os.path.exists(IMAGES_FOLDER):
